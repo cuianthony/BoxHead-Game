@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=tiles
+comment0.target=Zombie(Tile[][])
+comment0.text=\r\n\ Description\:\r\n\ The\ Zombie\ constructor.\r\n\ \r\n\ Limitations\:\ none\r\n
+comment1.params=
+comment1.target=void\ dead()
+comment1.text=\r\n\ Description\:\r\n\ When\ a\ zombie\ dies,\ changes\ the\ status\ of\ the\ last\r\n\ tile\ it\ occupied\ to\ unoccupied\ so\ that\ other\r\n\ characters\ can\ move\ onto\ the\ space.\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment2.params=
+comment2.target=void\ hit()
+comment2.text=\r\n\ Description\:\r\n\ Decrement\ zombie\ health\ when\ hit\ by\ bullet\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment3.params=
+comment3.target=int\ getHealth()
+comment3.text=\r\n\ Description\:\r\n\ getter\ to\ return\ zombie\ health\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ zombie\ health\ as\ int\r\n\ Limitations\:\ none\r\n
+comment4.params=targetRow\ targetCol
+comment4.target=void\ follow(int,\ int)
+comment4.text=\r\n\ Description\:\r\n\ This\ method\ implements\ the\ algorithm\ that\ moves\ the\r\n\ zombie\ towards\ the\ player's\ position\r\n\ 1.\ The\ player\ position\ can\ change\ in\ real\ time,\ the\ zombie\r\n\ \ \ \ always\ targets\ the\ new\ position\r\n\ 2.\ A\ random\ number\ is\ used\ to\ determine\ whether\ the\ zombie\r\n\ \ \ \ will\ be\ moved\ in\ the\ current\ turn.\ This\ will\ improve\ the\r\n\ \ \ \ animation\ when\ many\ zombies\ are\ moving\r\n\ 3.\ A\ zombie\ can't\ move\ to\ a\ position\ that\ is\ already\ occupied\r\n\ \ \ \ by\ another\ zombie.\ If\ this\ is\ case,\ the\ algorithm\ tries\r\n\ \ \ \ to\ find\ a\ neaby\ unoccupied\ position\ to\ move\ the\ zombie\r\n\ \r\n\ Input\:\ the\ player's\ position\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+numComments=5

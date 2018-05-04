@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=type\ row\ col
+comment0.target=Tile(char,\ int,\ int)
+comment0.text=\r\n\ Description\:\r\n\ The\ Tile\ constructor.\r\n\ \r\n\ Limitations\:\ none\r\n
+comment1.params=
+comment1.target=boolean\ isOccupied()
+comment1.text=\r\n\ Description\:\r\n\ Getter\ method\ returns\ a\ boolean\ for\ whether\ the\ tile\r\n\ is\ occupied\ or\ not\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ a\ boolean\ for\ tile\ occupation\r\n\ Limitations\:\ none\r\n
+comment2.params=flag
+comment2.target=void\ occupied(boolean)
+comment2.text=\r\n\ Description\:\r\n\ Setter\ method\ for\ occupation\ of\ a\ tile\r\n\ \r\n\ Input\:\ boolean\ for\ tile\ occupation\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment3.params=
+comment3.target=char\ type()
+comment3.text=\r\n\ Description\:\r\n\ Returns\ the\ type\ of\ the\ tile\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ the\ type\ of\ the\ tile\r\n\ Limitations\:\ none\r\n
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+comment4.text=\r\n\ Description\:\r\n\ Let\ the\ tile\ draw\ itself\r\n\ \r\n\ Input\:\ The\ Graphics\ reference\ to\ draw\ on\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Description\:\r\n\ toString\ to\ print\ the\ tile\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ the\ tile\ type\ as\ a\ string\r\n\ Limitations\:\ none\r\n
+numComments=6

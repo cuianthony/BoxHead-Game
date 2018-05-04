@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=direction\ x\ y
+comment0.target=Bullet(int,\ int,\ int)
+comment0.text=\r\n\ Description\:\r\n\ The\ Bullet\ constructor.\ Bullet\ knows\ its\ position\ on\ the\ board\r\n\ and\ its\ direction\ of\ travel\r\n\ \r\n\ Limitations\:\ none\r\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ Description\:\r\n\ Let\ the\ bullet\ draw\ itself,\ dependent\ on\ the\ its\r\n\ direction\ value\r\n\ \r\n\ Input\:\ The\ Graphics\ reference\ to\ draw\ on\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ Description\:\r\n\ Update\ the\ bullets\ position\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment3.params=
+comment3.target=boolean\ isOutOfGame()
+comment3.text=\r\n\ Description\:\r\n\ Returns\ boolean\ value\ of\ whether\ the\ bullet\ is\ out\r\n\ of\ the\ map\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ boolean\ is\ bullet\ out\ of\ map\r\n\ Limitations\:\ none\r\n
+comment4.params=
+comment4.target=int\ getRow()
+comment4.text=\r\n\ Description\:\r\n\ Determines\ row\ based\ on\ y\ value\ and\ returns\ row\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ int\ value\ of\ row\r\n\ Limitations\:\ none\r\n
+comment5.params=
+comment5.target=int\ getCol()
+comment5.text=\r\n\ Description\:\r\n\ Determines\ column\ based\ on\ x\ value\ and\ returns\ col\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ int\ value\ of\ column\r\n\ Limitations\:\ none\r\n
+comment6.params=
+comment6.target=int\ getDirection()
+comment6.text=\r\n\ Description\:\r\n\ Getter\ for\ bullet\ direction\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ d\r\n\ Limitations\:\ none\r\n
+numComments=7

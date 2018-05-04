@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=gamePanel
+comment0.target=GameMap(GamePanel)
+comment0.text=\r\n\ Description\:\r\n\ The\ GameMap\ constructor.\r\n\ \r\n\ Limitations\:\ none\r\n
+comment1.params=
+comment1.target=void\ getMap()
+comment1.text=\r\n\ Description\:\r\n\ Lay\ out\ the\ play\ area.\ The\ layout\ is\ saved\ in\ a\ text\ \r\n\ file.\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment2.params=
+comment2.target=void\ newGame()
+comment2.text=\r\n\ Description\:\r\n\ Start\ a\ new\ game\ by\ clearing\ bullets,\ zombies\ and\r\n\ resetting\ the\ map.\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment3.text=\r\n\ Description\:\r\n\ Draw\ the\ play\ area,\ which\ includes\ the\ floor,\ \r\n\ surrounding\ walls,\ fighter,\ zombies\ and\ bullets.\r\n\ \r\n\ Input\:\ Graphics\ reference\ to\ draw\ on\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment4.params=g
+comment4.target=void\ paintMap(java.awt.Graphics)
+comment4.text=\r\n\ Description\:\r\n\ Draw\ the\ background,\ including\ the\ floor\ and\ the\ \r\n\ surrounding\ walls.\r\n\ \r\n\ Input\:\ Graphics\ reference\ to\ draw\ on\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment5.params=
+comment5.target=int\ getZombieKills()
+comment5.text=\r\n\ Description\:\r\n\ Returns\ number\ of\ zombies\ killed\ as\ integer\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ int\ number\ of\ zombies\ killed\r\n\ Limitations\:\ none\r\n
+comment6.params=evt
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=evt
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=
+comment8.target=void\ playSound()
+comment8.text=\r\n\ Description\:\r\n\ Play\ the\ zombie\ sound\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+numComments=9

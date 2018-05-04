@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=tiles\ row\ col
+comment0.target=Fighter(Tile[][],\ int,\ int)
+comment0.text=\r\n\ Description\:\r\n\ The\ Fighter\ constructor.\ Fighter\ knows\ its\ position\ on\ the\ board\r\n\ \r\n\ Limitations\:\ none\r\n
+numComments=1

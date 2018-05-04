@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=map
+comment0.target=CharPanel(GameMap)
+comment0.text=\r\n\ Description\:\r\n\ The\ CharPanel\ constructor.\r\n\ \r\n\ Limitations\:\ none\r\n
+comment1.params=zombieKills
+comment1.target=void\ update(int)
+comment1.text=\r\n\ Description\:\r\n\ Updates\ the\ zombiesKilled\ label\ when\ a\ zombie\ dies.\r\n\ \r\n\ Limitations\:\ none\r\n
+numComments=2

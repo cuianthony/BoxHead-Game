@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MapReader()
+comment0.text=\r\n\ Description\:\r\n\ The\ MapReader\ constructor.\r\n\ \r\n\ Limitations\:\ none\r\n
+comment1.params=name
+comment1.target=void\ setFileName(java.lang.String)
+comment1.text=\r\n\ Description\:\r\n\ Set\ the\ file\ name\r\n\ \r\n\ Input\:\ fileName\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment2.params=
+comment2.target=Tile[][]\ getTiles()
+comment2.text=\r\n\ Description\:\r\n\ Read\ the\ play\ area\ layout\ info\ from\ the\ text\ file\r\n\ and\ save\ it\ in\ the\ "tiles"\ array.\r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ the\ "tiles"\ array\r\n\ Limitations\:\ none\r\n
+numComments=3

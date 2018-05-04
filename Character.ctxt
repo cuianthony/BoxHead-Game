@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=tiles\ row\ col
+comment0.target=Character(Tile[][],\ int,\ int)
+comment0.text=\r\n\ Description\:\r\n\ The\ Character\ constructor.\r\n\ \r\n\ Limitations\:\ none\r\n
+comment1.params=
+comment1.target=int\ getRow()
+comment1.text=\r\n\ Description\:\r\n\ Getter\ to\ return\ the\ row\ number\ \r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ row\ number\r\n\ Limitations\:\ none\r\n
+comment2.params=
+comment2.target=int\ getCol()
+comment2.text=\r\n\ Description\:\r\n\ Getter\ to\ return\ the\ column\ number\ \r\n\ \r\n\ Input\:\ none\r\n\ Return\:\ column\ number\r\n\ Limitations\:\ none\r\n
+comment3.params=row\ col
+comment3.target=void\ setRowCol(int,\ int)
+comment3.text=\r\n\ Description\:\r\n\ Setter\ to\ set\ the\ row\ and\ collum\ numbers\r\n\ \r\n\ Input\:\ int\ values\ for\ row\ and\ col\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics2D)
+comment4.text=\r\n\ Description\:\r\n\ Let\ the\ character\ draw\ itself.\ Depending\ on\ the\ \r\n\ direction\ of\ the\ character\ either\ an\r\n\ east-facing\ image\ or\ west-facing\ image\ is\ used\r\n\ \r\n\ Input\:\ The\ Graphics\ reference\ to\ draw\ on\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+comment5.params=dir
+comment5.target=void\ move(int)
+comment5.text=\r\n\ Description\:\r\n\ Update\ the\ coordinates\ of\ the\ character\ based\ on\r\n\ the\ direction\ of\ movement.\ If\ the\ targeted\ position\ is\ \r\n\ occupied,\ no\ change\ will\ be\ made\r\n\ \r\n\ Input\:\ the\ direction\ to\ move\ towards\r\n\ Return\:\ none\r\n\ Limitations\:\ none\r\n
+numComments=6
